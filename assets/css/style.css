@@ -278,6 +278,13 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
@@ -305,7 +312,7 @@ footer {
     }
 
     .left-about-heading, .right-about-heading {
-        width: inherit
+        width: inherit 
     }
 
     .left-about-heading h2, .right-about-heading h2 {
